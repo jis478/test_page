@@ -1,20 +1,14 @@
 docs:
-  - title: W AI 소개
+  - title: Paper & blog reviews
     children:
-      - title: "Mission"
-        url: /_pages/mission.md
-      - title: "팀 소개"
-        url: /_pages/team_introduction.md
-      - title: "홍보자료"
-        url: /_pages/pr.md
-      - title: "사내외 협업사례"
-        url: /_pages/use_case.md
+      - title: "GAN"
+        url: /_pages/GAN.md
+      - title: "MLOps"
+        url: /_pages/MLOPS.md
 
-  - title: W AI 사내데모체험
+  - title: Thoughts
     children:
-      - title: "자동채색"
-        url: "https://nss.navercorp.com/loginRequest?targetUrl=%2FnweauthorizeProcess%3Fresponse_type%3Dcode%26client_id%3DTOONFACEFILTER%26redirect_uri%3Dhttp%253A%252F%252Ftoonfacefilter.navercorp.com%252Flogin&uiMode=&serviceId=TOONFACEFILTER"
-      - title: "ToonFaceFilter"
-        url: "https://nss.navercorp.com/loginRequest?targetUrl=%2FnweauthorizeProcess%3Fresponse_type%3Dcode%26client_id%3DTOONFACEFILTER%26redirect_uri%3Dhttp%253A%252F%252Ftoonfacefilter.navercorp.com%252Flogin&uiMode=&serviceId=TOONFACEFILTER"
-      - title: "ToonFinder"
-        url: "https://nss.navercorp.com/loginRequest?targetUrl=%2FnweauthorizeProcess%3Fresponse_type%3Dcode%26client_id%3DTOONFACEFILTER%26redirect_uri%3Dhttp%253A%252F%252Ftoonfacefilter.navercorp.com%252Flogin&uiMode=&serviceId=TOONFACEFILTER"
+      - title: "Tech"
+        url: /_pages/TECH.md
+      - title: "Study"
+        url: /_pages/STUDY.md
