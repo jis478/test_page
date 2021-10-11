@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "NAVER WEBTOON AI"
+title                    : "Mark Kim's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mark Kim's blog"
+name                     : "Mark Kim"
 description              : "Mark Kim's blog"
 url                      : "https://jis478.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
