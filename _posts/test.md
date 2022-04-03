@@ -3,7 +3,7 @@ layout: single
 title: "첫 포스트"
 date: "2021-01-17 00:00:00 +0900"
 last_modified_at: "2021-01-17 00:00:00 +0900"
-categories: ["Papers"]
+categories: ["papers"]
 tags: ["GAN", "CVPR21"]
 ---
 
