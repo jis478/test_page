@@ -1,12 +1,28 @@
-# main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+# # main links
+# main:
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#   # - title: "About"
+#   #   url: https://mmistakes.github.io/minimal-mistakes/about/
+#   # - title: "Sample Posts"
+#   #   url: /year-archive/
+#   # - title: "Sample Collections"
+#   #   url: /collection-archive/
+#   # - title: "Sitemap"
+#   #   url: /sitemap/
+  
+  
+  docs:
+  - title: Paper & blog reviews
+    children:
+      - title: "GAN"
+        url: /papers/
+      - title: "MLOps"
+        url: /_pages/MLOPS.md
+
+  - title: Thoughts
+    children:
+      - title: "Tech"
+        url: /_pages/TECH.md
+      - title: "Study"
+        url: /_pages/STUDY.md
