@@ -2,7 +2,7 @@ docs:
   - title: Paper & blog reviews
     children:
       - title: "GAN"
-        url: /_pages/reviews/_posts/
+        url: /papers/
       - title: "MLOps"
         url: /_pages/MLOPS.md
 
