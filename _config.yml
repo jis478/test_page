@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mark Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "AI Research Engineer & Data Scientist"
+  location         : "South Korea"
+  email            : "Mark.kim.596596@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
