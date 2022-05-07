@@ -288,6 +288,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      masthead: false
+      masthead: true
 #       sidebar:
 #         nav: "main"    
