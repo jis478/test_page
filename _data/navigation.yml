@@ -12,7 +12,7 @@
 #   #   url: /sitemap/
   
   
-main:
+docs:
   - title: Paper & blog reviews
     children:
       - title: "GAN"
