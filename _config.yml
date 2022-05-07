@@ -289,5 +289,5 @@ defaults:
       share: true
       related: true
       masthead: true
-#       sidebar:
-#         nav: "main"    
+      sidebar:
+        nav: "docs"    
